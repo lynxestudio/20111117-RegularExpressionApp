@@ -18,9 +18,9 @@ Para ejemplificar el uso de expresiones regulares en C#, mostraremos un programa
 <p align="justify">
 Al ejecutar el programa podemos observar el resultado como se muestra en las siguientes imágenes probando con diferentes patrones con los archivos etc/password y /etc/group respectivamente.
 </p>
-<div>Fig 2. Una primera prueba con el archivo /etc/password</div>
+<div>Fig 1. Una primera prueba con el archivo /etc/password</div>
 <img src="images/fig1.png">
-<div>Fig 3. Una segunda prueba con el archivo /etc/password</div>
+<div>Fig 2. Una segunda prueba con el archivo /etc/password</div>
 <img src="images/fig2.png">
-<div>Fig 4. Probando con el archivo /etc/group</div>
+<div>Fig 3. Probando con el archivo /etc/group</div>
 <img src="images/fig3.png">
