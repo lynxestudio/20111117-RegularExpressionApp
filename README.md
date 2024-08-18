@@ -15,14 +15,12 @@ Las expresiones regulares en .NET se encuentran integradas como clases dentro de
 <p align="justify">
 Para ejemplificar el uso de expresiones regulares en C#, mostraremos un programa sencillo que tenga una funcionalidad similar al comando grep o egrep, como sabemos este comando en su funcionamiento básico recibe como argumentos una expresión regular y uno o varios archivos en donde buscar e imprime las líneas que coincidan con esa expresión regular.
 </p>
-<div>Fig 1. El código fuente del programa</div>
-<img src="TestGrep.png">
 <p align="justify">
 Al ejecutar el programa podemos observar el resultado como se muestra en las siguientes imágenes probando con diferentes patrones con los archivos etc/password y /etc/group respectivamente.
 </p>
 <div>Fig 2. Una primera prueba con el archivo /etc/password</div>
-<img src="fig1.png">
+<img src="images/fig1.png">
 <div>Fig 3. Una segunda prueba con el archivo /etc/password</div>
-<img src="fig2.png">
+<img src="images/fig2.png">
 <div>Fig 4. Probando con el archivo /etc/group</div>
-<img src="fig3.png">
+<img src="images/fig3.png">
